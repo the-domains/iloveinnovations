@@ -1,0 +1,28 @@
+name: IloveInnovations
+favicon: null
+layout_spectrum: 0.5885575956199318
+typography_spectrum: 0.65495590493083
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.964559483807534
+  lightness: 0.08579814177937806
+  saturation: 0.9673318245913833
+  rhythmicContrast: 0.00031378958374261856
+purpose: []
