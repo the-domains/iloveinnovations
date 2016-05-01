@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[IloveInnovations]]></title>
         <description><![CDATA[IloveInnovations]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iloveinnovations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 01:15:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 01:15:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iloveinnovations/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Innovation on Flipboard]]></title>
             <description><![CDATA[<article><h1>Innovation on Flipboard</h1><p>By Peter Wennersten | Things that change our lives</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c3cf9ee48162e867e6d05f7cf79ec5273de3e1e.jpg"></article>]]></description>
             <link>https://flipboard.com/@icon/innovation-mlqjqo9ay</link>
             <guid isPermaLink="false">b515b2b2-64e8-42e5-9b34-e81b0aad6f4a</guid>
-            <pubDate>Sun, 01 May 2016 01:15:07 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 01:15:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
