@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://flipboard.com'
-  name: Flipboard
-  favicon: 'https://s.flipboard.com/webapp/images/shortcut-icon-180-393c2144.png'
-  domain: flipboard.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://flipboard.com/@icon/innovation-mlqjqo9ay'
+inLanguage: en
 keywords:
   - startup
   - cutting-edge
@@ -18,7 +16,10 @@ keywords:
   - testing
   - panel
 description: 'By Peter Wennersten | Things that change our lives'
-inLanguage: en
+datePublished: '2016-05-01T01:15:35.479Z'
+dateModified: '2016-05-01T01:15:12.625Z'
+author: []
+related: []
 app_links:
   - url: 'flipboard://showSection/sid/mlqjqo9ay/icon?title=Innovation%20on%20Flipboard'
     namespace: twitter
@@ -35,16 +36,16 @@ app_links:
     type: googleplay
     name: Flipboard
     id: flipboard.app
-isBasedOnUrl: 'https://flipboard.com/@icon/innovation-mlqjqo9ay'
 title: Innovation on Flipboard
-datePublished: '2016-05-01T01:15:07.716Z'
-dateModified: '2016-05-01T01:12:44.033Z'
-starred: false
 sourcePath: _posts/2016-05-01-innovation-on-flipboard.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Flipboard
+  domain: flipboard.com
+  url: 'https://flipboard.com'
+  favicon: 'https://s.flipboard.com/webapp/images/shortcut-icon-180-393c2144.png'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
